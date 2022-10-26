@@ -1,0 +1,7 @@
+इको "# डीकॉर्ट" >> README.md 
+git init 
+git, README.md 
+git कमिट -m "फर्स्ट कमिट" 
+git ब्रांच -M मेन 
+git रिमोट ऐड ओरिजिन https://github.com/Deepakl995kumar/Deecort.git
+ git पुश - आप मूल मुख्य
